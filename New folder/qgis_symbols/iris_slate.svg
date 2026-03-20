@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- ღერო -->
+  <path d="M50,95 C50,95 50,68 50,58" stroke="#2D6A4F" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- ჩამოშვებული ფურცლები (falls) -->
+  <path d="M50,55 C42,58 32,72 34,82 C40,86 50,76 50,68Z" fill="#2C3E50" stroke="#2C3E50CC" stroke-width="1.8"/>
+  <path d="M50,55 C58,58 68,72 66,82 C60,86 50,76 50,68Z" fill="#2C3E50" stroke="#2C3E50CC" stroke-width="1.8"/>
+  <path d="M50,55 C46,48 36,40 30,45 C28,52 38,60 48,58Z" fill="#2C3E50" stroke="#2C3E50CC" stroke-width="1.8"/>
+  <!-- წამოწეული ფურცლები (standards) -->
+  <path d="M50,56 C46,48 46,36 50,28 C54,36 54,48 50,56Z" fill="#2C3E50" stroke="#2C3E50CC" stroke-width="1.8"/>
+  <path d="M50,56 C40,52 32,42 36,32 C44,28 50,42 50,56Z" fill="#2C3E50" stroke="#2C3E50CC" stroke-width="1.5" opacity="0.85"/>
+  <path d="M50,56 C60,52 68,42 64,32 C56,28 50,42 50,56Z" fill="#2C3E50" stroke="#2C3E50CC" stroke-width="1.5" opacity="0.85"/>
+  <!-- ცენტრი -->
+  <circle cx="50" cy="56" r="4" fill="#2C3E50CC" opacity="0.6"/>
+</svg>

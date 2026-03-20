@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- 5 გულის ფურცელი -->
+  <path d="M50,50 C44,44 36,36 38,26 C40,18 50,18 50,26 C50,18 60,18 62,26 C64,36 56,44 50,50Z"
+        fill="#1E8449" stroke="#1E8449CC" stroke-width="1.8"/>
+  <path d="M50,50 C56,44 68,42 74,50 C78,58 70,64 64,60 C70,64 68,74 60,74 C52,74 50,64 50,50Z"  
+        fill="#1E8449" stroke="#1E8449CC" stroke-width="1.8"
+        transform="rotate(72,50,50)"/>
+  <path d="M50,50 C56,44 68,42 74,50 C78,58 70,64 64,60 C70,64 68,74 60,74 C52,74 50,64 50,50Z"
+        fill="#1E8449" stroke="#1E8449CC" stroke-width="1.8"
+        transform="rotate(144,50,50)"/>
+  <path d="M50,50 C56,44 68,42 74,50 C78,58 70,64 64,60 C70,64 68,74 60,74 C52,74 50,64 50,50Z"
+        fill="#1E8449" stroke="#1E8449CC" stroke-width="1.8"
+        transform="rotate(216,50,50)"/>
+  <path d="M50,50 C56,44 68,42 74,50 C78,58 70,64 64,60 C70,64 68,74 60,74 C52,74 50,64 50,50Z"
+        fill="#1E8449" stroke="#1E8449CC" stroke-width="1.8"
+        transform="rotate(288,50,50)"/>
+  <!-- stamens -->
+  <circle cx="50" cy="50" r="5" fill="#FFD700" stroke="#1E8449CC" stroke-width="1.2"/>
+  <line x1="50" y1="43" x2="50" y2="38" stroke="#E91E8C" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="50" cy="37" r="2" fill="#E91E8C"/>
+  <line x1="44" y1="46" x2="40" y2="42" stroke="#E91E8C" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="39" cy="41" r="2" fill="#E91E8C"/>
+  <line x1="56" y1="46" x2="60" y2="42" stroke="#E91E8C" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="61" cy="41" r="2" fill="#E91E8C"/>
+</svg>

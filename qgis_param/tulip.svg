@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- ღერო -->
+  <path d="M50,95 C50,95 50,72 50,62" stroke="#2D6A4F" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- ფოთლები -->
+  <path d="M50,80 C44,70 32,68 30,60 C36,56 48,62 50,72" fill="#2D6A4F"/>
+  <path d="M50,75 C56,65 68,63 70,55 C64,51 52,57 50,67" fill="#2D6A4F"/>
+  <!-- მარცხენა ფურცელი -->
+  <path d="M50,62 C38,62 30,50 32,36 C36,28 44,30 48,38 C50,42 50,62 50,62Z"
+        fill="param(fill) #CC0000" stroke="param(outline) #800000" stroke-width="2"/>
+  <!-- მარჯვენა ფურცელი -->
+  <path d="M50,62 C62,62 70,50 68,36 C64,28 56,30 52,38 C50,42 50,62 50,62Z"
+        fill="param(fill) #CC0000" stroke="param(outline) #800000" stroke-width="2"/>
+  <!-- შუა ფურცელი -->
+  <path d="M50,62 C46,50 44,36 48,24 C50,18 52,18 54,24 C58,36 54,50 50,62Z"
+        fill="param(fill) #CC0000" stroke="param(outline) #800000" stroke-width="2"/>
+</svg>
